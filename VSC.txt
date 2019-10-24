@@ -1,0 +1,20 @@
+VSC
+
+パッケージ
+・Atom Keymap
+・beautify
+・Bracket Pair Colorizer
+・GlassIt-VSC
+・Japanese Language Pack for VS Code
+・Material Icon Theme
+・Path Autocomplete for Visual Studio Code
+・Prettier formatter 
+・Trailing Spaces
+・VS Color Picker
+・WordPress Snippet
+・Zenkaku
+・
+・
+・
+・
+・
